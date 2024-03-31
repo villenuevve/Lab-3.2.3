@@ -55,7 +55,7 @@ main {
 
 .content-left {
     display: grid;
-    grid-template-rows: 10fr 1fr;
+    grid-template-rows: 9fr 1fr;
     text-align: center;
 }
 
